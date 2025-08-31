@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloatBall.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dce6d93e99669e297dea570cb7595747476c5d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b5dab9058162650f52345c7e05e2a92b38aef7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FloatBall.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloatBall.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

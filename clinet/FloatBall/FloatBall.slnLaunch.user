@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "标准项目路径",
+    "Projects": [
+      {
+        "Path": "FloatBall.csproj",
+        "Action": "Start",
+        "DebugTarget": "FloatBall"
+      }
+    ]
+  }
+]

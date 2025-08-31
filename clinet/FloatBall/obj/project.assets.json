@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "FloatBall.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FloatBall.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FloatBall.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FloatBall.Core/1.0.0": {
+      "type": "project",
+      "path": "../FloatBall.Core/FloatBall.Core.csproj",
+      "msbuildProject": "../FloatBall.Core/FloatBall.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "FloatBall.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\29292\\.nuget\\packages\\": {},
@@ -38,7 +60,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
+              "projectPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

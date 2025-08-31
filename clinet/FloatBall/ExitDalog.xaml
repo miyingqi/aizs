@@ -1,0 +1,28 @@
+﻿<Window x:Class="FloatBall.ExitDalog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FloatBall"
+        mc:Ignorable="d"
+        Title="Window1"
+        Height="200"
+        Width="300"
+        WindowStyle="None"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="点击关闭按钮后：" HorizontalAlignment="Left" Margin="89,18,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="28" Width="122"/>
+        <StackPanel Margin="89,51,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <RadioButton x:Name="MinimizeToTray" Content="最小化到系统托盘" Height="17" Margin="0,0,0,10"  IsChecked="True" />
+            <RadioButton x:Name="CloseApplication" Content="关闭程序" Height="17"/>
+        </StackPanel>
+        <CheckBox Content="不在提示" HorizontalAlignment="Left" Margin="89,116,0,0" VerticalAlignment="Top" Height="17" Width="76" Grid.ColumnSpan="2"/>
+        <Button Content="取消" Click="ClCancel" HorizontalAlignment="Left" Margin="37,143,0,0" VerticalAlignment="Top" Width="66" Height="22" />
+        <Button Content="确定" Click="ClExit" HorizontalAlignment="Center" Margin="0,143,0,0" VerticalAlignment="Top" Width="66" Grid.Column="1" Height="22"/>
+
+    </Grid>
+</Window>
