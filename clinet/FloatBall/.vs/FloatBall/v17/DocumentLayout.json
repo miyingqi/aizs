@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
@@ -23,6 +24,20 @@
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\users\\29619\\downloads\\aizs\\clinet\\floatball\\fball.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:fball.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\users\\29619\\downloads\\aizs\\clinet\\floatball\\fball.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:fball.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\users\\29619\\downloads\\aizs\\clinet\\floatball\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\users\\29619\\downloads\\aizs\\clinet\\floatball\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
 >>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
@@ -51,12 +66,15 @@
         {
           "DockedWidth": 200,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
 =======
+=======
+>>>>>>> Stashed changes
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -73,6 +91,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
@@ -80,7 +101,11 @@
               "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "ViewState": "AgIAAB8AAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+>>>>>>> Stashed changes
 =======
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
 >>>>>>> Stashed changes
@@ -104,6 +129,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
@@ -137,6 +163,8 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
 =======
+=======
+>>>>>>> Stashed changes
               "DocumentIndex": 0,
               "Title": "Fball.xaml.cs",
               "DocumentMoniker": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\Fball.xaml.cs",
@@ -144,6 +172,9 @@
               "ToolTip": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\Fball.xaml.cs",
               "RelativeToolTip": "Fball.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T04:11:57.8Z",
