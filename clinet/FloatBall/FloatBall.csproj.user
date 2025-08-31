@@ -6,9 +6,4 @@
   <PropertyGroup>
     <ActiveDebugProfile>FloatBall</ActiveDebugProfile>
   </PropertyGroup>
-  <ItemGroup>
-    <Compile Update="ExitDalog.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-  </ItemGroup>
 </Project>

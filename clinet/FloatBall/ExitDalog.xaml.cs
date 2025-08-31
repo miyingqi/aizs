@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-
+using FloatBall.Core;
 namespace FloatBall
 {
     /// <summary>
@@ -30,17 +30,21 @@ namespace FloatBall
         private void ClExit(object sender, RoutedEventArgs e)
         {
             this.Close();
-
+            Core.MouseHook mouseHook = new MouseHook();
+            
             // 检查用户选择的选项
             if (MinimizeToTray.IsChecked == true)
             {
                 // 最小化到系统托盘的逻辑
-                // 例如：隐藏主窗口，显示托盘图标
                 var mainWindow = Application.Current.MainWindow as MainWindow;
                 if (mainWindow != null)
                 {
-                    //mainWindow.MinimizeToTray();
+                    // 隐藏主窗口
+                    mainWindow.Hide();
+
+                    
                 }
+
             }
             else if (CloseApplication.IsChecked == true)
             {

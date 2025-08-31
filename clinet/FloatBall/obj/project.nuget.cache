@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I0giwzIaib8=",
+  "dgSpecHash": "ND5K9OHqHfY=",
   "success": true,
-  "projectFilePath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\29292\\.nuget\\packages\\hardcodet.notifyicon.wpf\\2.0.1\\hardcodet.notifyicon.wpf.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

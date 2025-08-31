@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj": {}
+    "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\FloatBall.csproj": {}
   },
   "projects": {
-    "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
+    "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj",
+        "projectUniqueName": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj",
         "projectName": "FloatBall.Core",
-        "projectPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj",
-        "packagesPath": "C:\\Users\\29619\\.nuget\\packages\\",
-        "outputPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\obj\\",
+        "projectPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj",
+        "packagesPath": "C:\\Users\\29292\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\29619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\29292\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,24 +68,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj": {
+    "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\FloatBall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
+        "projectUniqueName": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
         "projectName": "FloatBall",
-        "projectPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
-        "packagesPath": "C:\\Users\\29619\\.nuget\\packages\\",
-        "outputPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\obj\\",
+        "projectPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
+        "packagesPath": "C:\\Users\\29292\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\29619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\29292\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -100,8 +100,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
-                "projectPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj"
+              "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
+                "projectPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj"
               }
             }
           }
@@ -121,6 +121,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Hardcodet.NotifyIcon.Wpf": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -140,7 +146,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
