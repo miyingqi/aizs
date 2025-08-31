@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <ImplicitUsings>enable</ImplicitUsings>
-    <BaseOutputPath>E:\Github\pj\aizs\clinet\FloatBall\bin</BaseOutputPath>
+    <BaseOutputPath>C:\Users\29619\Downloads\aizs\clinet\FloatBall\bin</BaseOutputPath>
   </PropertyGroup>
 
 </Project>
