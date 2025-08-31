@@ -36,11 +36,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
+      "projectUniqueName": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
       "projectName": "FloatBall",
-      "projectPath": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
+      "projectPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\FloatBall.csproj",
       "packagesPath": "C:\\Users\\29619\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\obj\\",
+      "outputPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,8 +61,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
-              "projectPath": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj"
+            "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj": {
+              "projectPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall.Core\\FloatBall.Core.csproj"
             }
           }
         }

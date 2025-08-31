@@ -28,3 +28,15 @@ C:\Users\29619\Downloads\aizs\clinet\FloatBall\bin\Debug\net8.0-windows\FloatBal
 C:\Users\29619\Downloads\aizs\clinet\FloatBall\bin\Debug\net8.0-windows\FloatBall.Core.dll
 C:\Users\29619\Downloads\aizs\clinet\FloatBall\bin\Debug\net8.0-windows\FloatBall.Core.pdb
 C:\Users\29619\Downloads\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\ref\FloatBall.Core.dll
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.AssemblyInfoInputs.cache
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.AssemblyInfo.cs
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.csproj.CoreCompileInputs.cache
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.sourcelink.json
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.dll
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\refint\FloatBall.Core.dll
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\FloatBall.Core.pdb
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\obj\Debug\net8.0-windows\ref\FloatBall.Core.dll
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\bin\Debug\net8.0-windows\FloatBall.Core.deps.json
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\bin\Debug\net8.0-windows\FloatBall.Core.dll
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall.Core\bin\Debug\net8.0-windows\FloatBall.Core.pdb

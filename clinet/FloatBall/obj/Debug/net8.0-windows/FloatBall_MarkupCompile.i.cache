@@ -1,5 +1,5 @@
 ﻿FloatBall
-
+1.0.0.0
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall\App.xaml
 3-678506106
 
-6645018172
+8-2109759614
 199-299363561
 ExitDalog.xaml;Fball.xaml;MainWindow.xaml;
 
