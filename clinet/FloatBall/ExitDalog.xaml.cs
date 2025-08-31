@@ -31,7 +31,7 @@ namespace FloatBall
         {
             this.Close();
             Core.MouseHook mouseHook = new MouseHook();
-            
+            MessageBox.Show(mouseHook.hello());
             // 检查用户选择的选项
             if (MinimizeToTray.IsChecked == true)
             {

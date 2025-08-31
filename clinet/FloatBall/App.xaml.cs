@@ -11,16 +11,10 @@ namespace FloatBall
     {
         protected override void OnStartup(StartupEventArgs e)
         {
-            try
-            {
-                _taskbar = (TaskbarIcon)FindResource("Taskbar");
-            }
-            catch (Exception ex)
-            {
-                // 处理资源查找失败的情况
-                MessageBox.Show($"托盘图标加载失败: {ex.Message}");
-            }
+            
+            _taskbar = (TaskbarIcon)FindResource("Taskbar");
             base.OnStartup(e);
+
         }
 
         private TaskbarIcon _taskbar;

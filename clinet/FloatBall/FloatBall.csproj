@@ -13,6 +13,10 @@
     <ApplicationIcon>bin\FloatBall\FloatBall.ico</ApplicationIcon>
   </PropertyGroup>
 
+	<ItemGroup>
+		<RuntimeHostConfigurationOption Include="SubdirectoriesToProbe" Value="Plugins" />
+	</ItemGroup>
+	
   <ItemGroup>
     <None Remove="FloatBall.ico" />
   </ItemGroup>
@@ -22,7 +26,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FloatBall.Core\FloatBall.Core.csproj" />
+    <ProjectReference Include="..\FloatBall.Core\FloatBall.Core.csproj">
+      <Private>True</Private>
+    </ProjectReference>
   </ItemGroup>
 
   <ItemGroup>

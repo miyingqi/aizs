@@ -30,3 +30,4 @@ E:\Github\pj\aizs\clinet\FloatBall\obj\Debug\refint\FloatBall.dll
 E:\Github\pj\aizs\clinet\FloatBall\obj\Debug\FloatBall.pdb
 E:\Github\pj\aizs\clinet\FloatBall\obj\Debug\FloatBall.genruntimeconfig.cache
 E:\Github\pj\aizs\clinet\FloatBall\obj\Debug\ref\FloatBall.dll
+E:\Github\pj\aizs\clinet\FloatBall\bin\FloatBall\Debug\FloatBall.dll.config
