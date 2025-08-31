@@ -39,7 +39,7 @@ namespace FloatBall
                 var mainWindow = Application.Current.MainWindow as MainWindow;
                 if (mainWindow != null)
                 {
-                    mainWindow.MinimizeToTray();
+                    //mainWindow.MinimizeToTray();
                 }
             }
             else if (CloseApplication.IsChecked == true)

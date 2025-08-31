@@ -1,33 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\",
+  "WorkspaceRootPath": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\exitdalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:exitdalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\exitdalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:exitdalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\apps\\workpath\\vs\\fball\\aizs\\clinet\\floatball\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\apps\\workpath\\vs\\fball\\aizs\\clinet\\floatball\\fball.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:fball.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{149D18D7-2414-48FC-9A00-B3E7B15DC6E3}|..\\FloatBall.Core\\FloatBall.Core.csproj|e:\\github\\pj\\aizs\\clinet\\floatball.core\\mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\apps\\workpath\\vs\\fball\\aizs\\clinet\\floatball\\fball.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:fball.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,95 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExitDalog.xaml.cs",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\ExitDalog.xaml.cs",
-              "RelativeDocumentMoniker": "ExitDalog.xaml.cs",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\ExitDalog.xaml.cs",
-              "RelativeToolTip": "ExitDalog.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T06:24:35.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExitDalog.xaml",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\ExitDalog.xaml",
-              "RelativeDocumentMoniker": "ExitDalog.xaml",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\ExitDalog.xaml*",
-              "RelativeToolTip": "ExitDalog.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-31T04:14:07.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T04:11:57.8Z",
+              "WhenOpened": "2025-08-31T07:15:58.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\App.xaml",
-              "RelativeToolTip": "App.xaml",
+              "DocumentIndex": 1,
+              "Title": "Fball.xaml",
+              "DocumentMoniker": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\Fball.xaml",
+              "RelativeDocumentMoniker": "Fball.xaml",
+              "ToolTip": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\Fball.xaml",
+              "RelativeToolTip": "Fball.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-31T04:11:47.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MouseHook.cs",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\MouseHook.cs",
-              "RelativeDocumentMoniker": "..\\FloatBall.Core\\MouseHook.cs",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall.Core\\MouseHook.cs",
-              "RelativeToolTip": "..\\FloatBall.Core\\MouseHook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T03:48:52.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-31T03:48:14.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T07:12:36.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCIAAAAQAAAAAAAAAA==",
+              "Title": "Fball.xaml.cs",
+              "DocumentMoniker": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\Fball.xaml.cs",
+              "RelativeDocumentMoniker": "Fball.xaml.cs",
+              "ToolTip": "C:\\Apps\\workpath\\vs\\fball\\aizs\\clinet\\FloatBall\\Fball.xaml.cs",
+              "RelativeToolTip": "Fball.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T03:48:13.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T07:11:57.237Z"
             }
           ]
         }

@@ -25,15 +25,17 @@ namespace FloatBall
 
         private void MainWindow_Closing(object? sender, CancelEventArgs e)
         {
-            bool isSystemClose = (Keyboard.Modifiers == ModifierKeys.Alt &&Keyboard.IsKeyDown(Key.F4));
-            if (!isSystemClose)
-            {
-                e.Cancel = true; // 阻止默认关闭
-                ExitDalog window = new();
-                window.Owner = this; // 设置父窗口
-                window.WindowStartupLocation = WindowStartupLocation.CenterOwner; // 相对于父窗口居中
-                window.ShowDialog();
-            }
+            //bool isSystemClose = (Keyboard.Modifiers == ModifierKeys.Alt &&Keyboard.IsKeyDown(Key.F4));
+            //if (!isSystemClose)
+            //{
+            //    e.Cancel = true; // 阻止默认关闭
+            //    ExitDalog window = new();
+            //    window.Owner = this; // 设置父窗口
+            //    window.WindowStartupLocation = WindowStartupLocation.CenterOwner; // 相对于父窗口居中
+            //    window.ShowDialog();
+            //}
+            Fball myw = new Fball ();
+            myw.ShowDialog();
         }
 
     }

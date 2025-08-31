@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Github\pj\aizs\clinet\FloatBall\obj\Debug\net8.0-windows\
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall\obj\Debug\net8.0-windows\
 FloatBall
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-E:\Github\pj\aizs\clinet\FloatBall\App.xaml
-2-1058699009
+C:\Apps\workpath\vs\fball\aizs\clinet\FloatBall\App.xaml
+3-678506106
 
-7-579398117
-199-346837586
-ExitDalog.xaml;MainWindow.xaml;
+8-2109759614
+199-299363561
+ExitDalog.xaml;Fball.xaml;MainWindow.xaml;
 
 False
 
