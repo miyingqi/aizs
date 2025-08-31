@@ -4,11 +4,16 @@
 winexe
 C#
 .cs
+<<<<<<< Updated upstream
 E:\Github\pj\aizs\clinet\FloatBall\obj\Debug\net8.0-windows\
+=======
+C:\Users\29619\Downloads\aizs\clinet\FloatBall\obj\Debug\net8.0-windows\
+>>>>>>> Stashed changes
 FloatBall
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+<<<<<<< Updated upstream
 E:\Github\pj\aizs\clinet\FloatBall\App.xaml
 2-1058699009
 
@@ -17,4 +22,14 @@ E:\Github\pj\aizs\clinet\FloatBall\App.xaml
 ExitDalog.xaml;MainWindow.xaml;
 
 False
+=======
+C:\Users\29619\Downloads\aizs\clinet\FloatBall\App.xaml
+3-678506106
+
+8-2109759614
+199-299363561
+ExitDalog.xaml;Fball.xaml;MainWindow.xaml;
+
+True
+>>>>>>> Stashed changes
 

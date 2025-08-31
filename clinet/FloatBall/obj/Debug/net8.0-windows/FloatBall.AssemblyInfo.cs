@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloatBall")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b5dab9058162650f52345c7e05e2a92b38aef7f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2489e877da72f65e76f0d8f43113a8eb8dff1b92")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("FloatBall")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloatBall")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -69,7 +69,7 @@ namespace FloatBall {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/FloatBall;component/exitdalog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/FloatBall;V1.0.0.0;component/exitdalog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ExitDalog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

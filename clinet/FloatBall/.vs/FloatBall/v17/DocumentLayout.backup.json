@@ -15,19 +15,29 @@
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\users\\29619\\downloads\\aizs\\clinet\\floatball\\fball.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:fball.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{149D18D7-2414-48FC-9A00-B3E7B15DC6E3}|..\\FloatBall.Core\\FloatBall.Core.csproj|e:\\github\\pj\\aizs\\clinet\\floatball.core\\mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|e:\\github\\pj\\aizs\\clinet\\floatball\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|c:\\users\\29619\\downloads\\aizs\\clinet\\floatball\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBB26DA2-6704-48E8-90CA-46B26DECB206}|FloatBall.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -41,6 +51,7 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "ExitDalog.xaml.cs",
               "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\ExitDalog.xaml.cs",
@@ -50,11 +61,22 @@
               "ViewState": "AgIAABQAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T06:24:35.568Z",
+=======
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-31T07:16:01.069Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "ExitDalog.xaml",
               "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\ExitDalog.xaml",
               "RelativeDocumentMoniker": "ExitDalog.xaml",
@@ -73,6 +95,14 @@
               "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+=======
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T04:11:57.8Z",
               "EditorCaption": ""
@@ -104,12 +134,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "E:\\Github\\pj\\aizs\\clinet\\FloatBall\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
+=======
+              "DocumentIndex": 1,
+              "Title": "Fball.xaml",
+              "DocumentMoniker": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\Fball.xaml",
+              "RelativeDocumentMoniker": "Fball.xaml",
+              "ToolTip": "C:\\Users\\29619\\Downloads\\aizs\\clinet\\FloatBall\\Fball.xaml",
+              "RelativeToolTip": "Fball.xaml",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-08-31T03:48:14.845Z",
               "EditorCaption": ""
